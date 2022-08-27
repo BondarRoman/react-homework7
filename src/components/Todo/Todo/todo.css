@@ -1,0 +1,20 @@
+.complete{
+    text-decoration: line-through;
+    border: 1px solid green;
+    border-radius: 10px 20px;
+    color:  green;
+    text-align: center;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+}
+.todoQuest{
+    border: 1px solid blueviolet;
+    border-radius: 10px 20px;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+    color: darkgoldenrod;
+    margin: 10px;
+}
